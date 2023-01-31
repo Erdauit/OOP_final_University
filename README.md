@@ -29,5 +29,6 @@
       <img src = "https://github.com/Erdauit/OOP_final_University/blob/main/Diagrams/Class_Diagram_1.png">
       <img src = "https://github.com/Erdauit/OOP_final_University/blob/main/Diagrams/Use_Case_Diagram_1.png">
     <li> <a href = "https://github.com/Erdauit/OOP_final_University/blob/main/report.pdf"> Report </a>
+    <li> <a href = "https://github.com/Erdauit/OOP_final_University/blob/main/presentation.pdf"> Presentation of our project </a>
   </ul>
 </div>
