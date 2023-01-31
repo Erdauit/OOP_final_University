@@ -5,7 +5,7 @@
 <div id = "header">
   <h3>    Team </h3>
   <ul>
-    <li>Erdauit Torekhan
+    <li>Erdauit Torekhan (Team Leader)
     <li>Nastya Larrionova
     <li>Altair Bisenbiev
     <li>Aruzhan Meiirkhan
@@ -30,5 +30,6 @@
       <img src = "https://github.com/Erdauit/OOP_final_University/blob/main/Diagrams/Use_Case_Diagram_1.png">
     <li> <a href = "https://github.com/Erdauit/OOP_final_University/blob/main/report.pdf"> Report </a>
     <li> <a href = "https://github.com/Erdauit/OOP_final_University/blob/main/presentation.pdf"> Presentation of our project </a>
+    <li> <a href = "https://github.com/Erdauit/OOP_final_University/tree/main/Documentation">Documentation of our project</a>
   </ul>
 </div>
