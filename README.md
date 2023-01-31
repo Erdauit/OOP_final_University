@@ -33,3 +33,5 @@
     <li> <a href = "https://github.com/Erdauit/OOP_final_University/tree/main/Documentation">Documentation of our project</a>
   </ul>
 </div>
+
+<hr class="dashed">
