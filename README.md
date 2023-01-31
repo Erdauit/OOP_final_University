@@ -35,3 +35,5 @@
 </div>
 
 <hr class="dashed">
+
+<h3>Our project received the "Best Project" title</h3>
