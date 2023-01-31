@@ -27,6 +27,7 @@
   <ul>
     <li> Class and Use case diagrams:
       <img src = "https://github.com/Erdauit/OOP_final_University/blob/main/Diagrams/Class_Diagram_1.png">
+      <img src = "https://github.com/Erdauit/OOP_final_University/blob/main/Diagrams/Use_Case_Diagram_1.png">
     <li>Understand the architecture of projects
     <li>Work in group
     <li>Be leader
