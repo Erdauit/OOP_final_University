@@ -35,5 +35,7 @@
 </div>
 
 <hr class="dashed">
-
-<h3>Our project received the "Best Project" title</h3>
+  <div id = "header", align = "center">
+    <h3>Our project received the "Best Project" title from Pakita</h3>
+    <h3>Thanks Pakita for being best teacher of Object-Oriented Programming course </h3>
+  </div>
