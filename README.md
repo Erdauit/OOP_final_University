@@ -6,5 +6,8 @@
   <h3>    Team </h3>
   <ul>
     <li>Erdauit Torekhan
+    <li>Nastya Larrionova
+    <li>Altair Bisenbiev
+    <li>Aruzhan Meiirkhan
   </ul>
 </div>
