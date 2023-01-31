@@ -3,7 +3,7 @@
 </div>
 
 <div id = "header">
-  <h3> Team </h3>
+  <h3>    Team </h3>
   <ul>
     <li>Erdauit Torekhan
   </ul>
