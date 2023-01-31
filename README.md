@@ -11,3 +11,14 @@
     <li>Aruzhan Meiirkhan
   </ul>
 </div>
+
+<div>
+  <h3> Our goals: </h3>
+  <ul>
+    <li>Understand main OOP principles
+    <li>Understand the architecture of projects
+    <li>Work in group
+    <li>Be leader
+  </ul>
+  
+</div>
